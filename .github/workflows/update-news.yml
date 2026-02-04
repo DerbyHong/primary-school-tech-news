@@ -1,0 +1,35 @@
+name: Update News
+
+on:
+  schedule:
+    # Every Monday at 00:00 UTC (8:00 AM Taipei Time)
+    - cron: '0 0 * * 1'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: npm ci
+      
+    - name: Run Crawler
+      run: node scripts/gen-news.js
+      
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        git add public/data/news.json
+        # Only commit if there are changes
+        git diff --quiet && git diff --staged --quiet || (git commit -m "chore(data): update news list" && git push)
