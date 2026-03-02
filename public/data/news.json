@@ -1,94 +1,73 @@
 [
   {
-    "title": "庫克退休前，能看到 AI Siri 上線嗎？",
-    "url": "https://technews.tw/2026/02/23/can-cook-witness-ai-siri-launch-ahead-of-retirement/",
-    "pubDate": "2026-02-23T00:20:32.000Z",
+    "title": "Claude 超車 ChatGPT 登頂 App Store 榜首，Anthropic 拒絕軍事合作贏得使用者青睞",
+    "url": "https://technews.tw/2026/03/02/anthropics-claude-overtakes-chatgpt-in-app-store/",
+    "pubDate": "2026-03-02T01:00:50.000Z",
     "source": "TechNews 科技新報",
-    "contentSnippet": "毫不意外地，蘋果計劃在今年春季發布的 AI Siri，又要跳票了。 彭博社從內部人士獲悉，不僅 AI Siri […]"
+    "contentSnippet": "在人工智慧的競爭中，Anthropic 的 Claude 最近成功超越 OpenAI 的 ChatGPT，成為 […]"
   },
   {
-    "title": "突破物理極限的新救星？小晶片架構如何用十分之一能耗撐起 HPC 與 AI 算力",
-    "url": "https://technews.tw/2026/02/23/will-chiplets-provide-the-answer-for-post-exascale-hpc-scaling/",
-    "pubDate": "2026-02-22T23:40:04.000Z",
+    "title": "AI 伺服器再迎倍增年，外資齊升評廣達目標價",
+    "url": "https://finance.technews.tw/2026/03/02/2026-quanta-ai-server/",
+    "pubDate": "2026-03-02T00:58:29.000Z",
     "source": "TechNews 科技新報",
-    "contentSnippet": "隨著傳統晶片架構逐漸接近功率、熱量和空間的物理極限，一種新的架構正在出現，為高效能運算（HPC）提供潛在的前進 […]"
+    "contentSnippet": "在 AI 基礎建設需求持續擴張帶動下，外資最新報告同步調升對廣達後市展望。大和資本（Daiwa）與摩根士丹利指 […]"
   },
   {
-    "title": "DeepMind 哈薩比斯預言：AI 將開啟未來 10–15 年「科學發現黃金時代」",
-    "url": "https://technews.tw/2026/02/23/googles-nobel-winning-ai-leader-sees-a-renaissance-ahead/",
-    "pubDate": "2026-02-22T23:20:45.000Z",
+    "title": "全美創投近二成資金被它吸走，a16z 怎靠說故事登上矽谷新王者",
+    "url": "https://finance.technews.tw/2026/03/02/story-of-a16z/",
+    "pubDate": "2026-03-02T00:10:47.000Z",
     "source": "TechNews 科技新報",
-    "contentSnippet": "在最近一次訪談中，Google DeepMind 首席執行長兼諾貝爾獎得主傑米斯·哈薩比斯（Demis Has […]"
+    "contentSnippet": "在企業面臨巨大轉型焦慮、所有人都大談 AI 技術的 2026 年，如果你不在創投圈，為什麼必須看懂一家矽谷創投 […]"
   },
   {
-    "title": "ChatGPT 高耗能？OpenAI 執行長拿人類做比較",
-    "url": "https://technews.tw/2026/02/23/openai-ceo-sam-altman-on-resources-consumed-by-ai-data-centers/",
-    "pubDate": "2026-02-22T22:44:48.000Z",
+    "title": "當 AI 什麼都會，人類還剩下什麼競爭力？",
+    "url": "https://finance.technews.tw/2026/03/02/the-human-advantage-stronger-brains-in-the-age-of-ai/",
+    "pubDate": "2026-03-01T23:20:25.000Z",
     "source": "TechNews 科技新報",
-    "contentSnippet": "OpenAI 執行長奧特曼（Sam Altman）認為，將 ChatGPT 回答一次查詢所消耗的能源，與一名  […]"
+    "contentSnippet": "AI 可以寫報告、做分析、產出建議，速度之快、成本之低，讓許多原本被視為「專業門檻」的工作瞬間變得唾手可得。  […]"
   },
   {
-    "title": "大型隕石撞擊古老證據，巴西發現全球第六個似曜岩礦區",
-    "url": "https://technews.tw/2026/02/22/geraisites-natural-glass-tektite/",
-    "pubDate": "2026-02-22T05:15:16.000Z",
+    "title": "ChatGPT Health 無法穩定辨識急症與精神危機，逾半數未能提供適當急診指引",
+    "url": "https://technews.tw/2026/03/02/chatgpt-health-is-unable-to-consistently-identify-acute-illnesses-and-mental-health-crises/",
+    "pubDate": "2026-03-01T23:10:57.000Z",
     "source": "TechNews 科技新報",
-    "contentSnippet": "科學家首次於巴西發現外星天體高能撞擊地球表面後形成的似曜岩礦區。 似曜岩（tektite）又稱衝擊玻璃，一般認 […]"
+    "contentSnippet": "《Nature Medicine》2 月 23 日發表首份針對 OpenAI 旗下消費者健康工具 ChatGP […]"
   },
   {
-    "title": "東元拿下馬來西亞＋泰國 25 億大單，挺進東南亞 AI 超大規模資料中心戰場",
-    "url": "https://finance.technews.tw/2026/02/22/teco-march-to-southeast-asia/",
-    "pubDate": "2026-02-22T05:00:42.000Z",
+    "title": "從星艦到 Grok：SpaceX 整合社群與 AI 數據，布局火星載人任務",
+    "url": "https://technews.tw/2026/03/02/musk-spacex/",
+    "pubDate": "2026-03-01T23:00:44.000Z",
     "source": "TechNews 科技新報",
-    "contentSnippet": "東元在東南亞 AI 資料中心市場再下一城，成功拿下馬來西亞與泰國兩項超大規模資料中心大單，總金額達新台幣 25 […]"
+    "contentSnippet": "SpaceX 最新計畫為利用其星艦太空船執行近地軌道以外任務，包括支援 NASA 阿提米絲（Artemis）計 […]"
   },
   {
-    "title": "阿提米絲 2 號任務再推遲，SLS 火箭準備返廠維修上級故障",
-    "url": "https://technews.tw/2026/02/22/artemis-ii-sls-rocket-nasa/",
-    "pubDate": "2026-02-22T03:32:23.000Z",
+    "title": "連九年正現金流、年收破 40 億美元，Canva 靠「買技術＋挖人才」正面狙擊 Adobe",
+    "url": "https://finance.technews.tw/2026/03/01/canva-acquires-cavalry-and-mangoai/",
+    "pubDate": "2026-03-01T03:00:20.000Z",
     "source": "TechNews 科技新報",
-    "contentSnippet": "由於太空發射系統（SLS）火箭上層發現技術問題，NASA 決定將火箭從發射台移下、運回飛行器裝配大樓（VAB） […]"
+    "contentSnippet": "近期，Canva 正式宣布收購英國 2D 動畫平台 Cavalry 以及美國 AI 廣告優化新創 MangoA […]"
   },
   {
-    "title": "「80% 的 App 將消失！」YC 專訪 OpenClaw 創辦人：AI 革命不在雲端，而在你電腦裡",
-    "url": "https://infosecu.technews.tw/2026/02/22/openclaw-founder-predicts-80percent-of-apps-will-disappear/",
-    "pubDate": "2026-02-22T03:00:10.000Z",
+    "title": "Google DeepMind 執行長示警：AI 威脅迫在眉睫，研究刻不容緩",
+    "url": "https://technews.tw/2026/03/01/urgent-research-needed-to-tackle-ai-threats-says-google-ai-boss/",
+    "pubDate": "2026-03-01T01:30:52.000Z",
     "source": "TechNews 科技新報",
-    "contentSnippet": "近期 Y Combinator 專訪了開源 AI 代理人（AI Agent）專案「OpenClaw」的創辦人  […]"
+    "contentSnippet": "印度德里人工智慧影響高峰會時，Google DeepMind 執行長傑米斯·哈薩比斯（Demis Hassab […]"
   },
   {
-    "title": "〈Minecraft〉生父 Notch 又放炮，批用 AI 寫程式「不是無能就是邪惡」",
-    "url": "https://technews.tw/2026/02/22/billionaire-founder-of-minecraft-slams-anyone-advocating-using-ai-to-write-code-as-incompetent-or-evil/",
-    "pubDate": "2026-02-22T02:00:48.000Z",
+    "title": "從黑鷹生還者到漢翔董座，曹進平用「賺來的餘生」重塑紀律、迎戰無人機商機",
+    "url": "https://finance.technews.tw/2026/03/01/aidc-ceo/",
+    "pubDate": "2026-03-01T01:00:47.000Z",
     "source": "TechNews 科技新報",
-    "contentSnippet": "生成式 AI 迅速崛起改變許多人日常工作方式，許多原本需數天或數週的寫程式任務，如今只需幾秒鐘就完成。但〈Mi […]"
+    "contentSnippet": "農曆年前，位於台中的漢翔公司，來自國外的客戶依舊穿梭不息，緊鑼密鼓地洽談各式無人機合作商機。2026 年 1  […]"
   },
   {
-    "title": "我們是發現「新物理」還是「量錯了」？",
-    "url": "https://technews.tw/2026/02/22/tiny-supernova-error-could-make-the-dark-energy-crisis-vanish-new-paper-suggests/",
-    "pubDate": "2026-02-22T00:45:41.000Z",
+    "title": "終結「剪輯地獄」！華碩聯手 GoPro 推 AI 筆電 PX13，解決戶外創作者「拍完不剪」痛點",
+    "url": "https://technews.tw/2026/02/28/asus-partners-with-gopro-to-launch-px13/",
+    "pubDate": "2026-02-28T05:00:09.000Z",
     "source": "TechNews 科技新報",
-    "contentSnippet": "想像一下，你正看著一台加速中賽車，數十年來，科學家都認為這台「賽車」（宇宙）是靠穩定、永遠不會斷油的燃料在加速 […]"
-  },
-  {
-    "title": "重塑光電子學，科學家開發常溫常壓下穩定的新型半導體材料鍺錫合金",
-    "url": "https://technews.tw/2026/02/22/gesn-alloy-semiconductor-gesn/",
-    "pubDate": "2026-02-22T00:30:45.000Z",
-    "source": "TechNews 科技新報",
-    "contentSnippet": "矽在半導體材料競賽長期佔據霸主地位，但它在光電領域的「先天缺陷」也侷限了成長空間。最近研究人員開發一種由鍺、錫 […]"
-  },
-  {
-    "title": "劉揚偉一件外套帶火「企業小物」，鴻海聯手在地品牌，把台灣代工一起帶上台",
-    "url": "https://finance.technews.tw/2026/02/22/hon-hai-branded-products/",
-    "pubDate": "2026-02-22T00:00:39.000Z",
-    "source": "TechNews 科技新報",
-    "contentSnippet": "從 Google、微軟到 OpenAI，美國科技公司常透過經營企業商店，讓日常用品成為企業文化最佳展示。 近年 […]"
-  },
-  {
-    "title": "連電腦 App 都要驗年齡！美國亞利桑那州擬強制所有手機 App 檢查用戶身分",
-    "url": "https://technews.tw/2026/02/22/arizona-hb2920-age-verification-all-apps/",
-    "pubDate": "2026-02-21T23:30:59.000Z",
-    "source": "TechNews 科技新報",
-    "contentSnippet": "美國亞利桑那州議會 1 月 27 日提出法案 HB2920，要求用戶使用幾乎所有手機應用程式前先檢查年齡。這項 […]"
+    "contentSnippet": "假期外出旅遊時，不少民眾會透過鏡頭記錄與家人互動、戶外山林與旅遊的點點滴滴。然而，對於許多熱愛記錄生活的「戶外 […]"
   },
   {
     "title": "台灣光學革命：液晶眼鏡毫秒變焦，終結近視老花困境 【挺健康】",
