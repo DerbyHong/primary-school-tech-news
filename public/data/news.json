@@ -1,73 +1,143 @@
 [
   {
-    "title": "Claude 超車 ChatGPT 登頂 App Store 榜首，Anthropic 拒絕軍事合作贏得使用者青睞",
-    "url": "https://technews.tw/2026/03/02/anthropics-claude-overtakes-chatgpt-in-app-store/",
-    "pubDate": "2026-03-02T01:00:50.000Z",
+    "title": "從 GAAFET 到 3D-IC：AI 晶片的技術轉折點",
+    "url": "https://technews.tw/2026/03/09/gaafet-3d-ic-ai-chips/",
+    "pubDate": "2026-03-09T01:00:12.000Z",
     "source": "TechNews 科技新報",
-    "contentSnippet": "在人工智慧的競爭中，Anthropic 的 Claude 最近成功超越 OpenAI 的 ChatGPT，成為 […]"
+    "contentSnippet": "隨著 AI 與高效能運算（HPC）需求持續攀升，半導體產業正同步面臨功耗密度、熱管理、互連頻寬與製程可延展性等 […]"
   },
   {
-    "title": "AI 伺服器再迎倍增年，外資齊升評廣達目標價",
-    "url": "https://finance.technews.tw/2026/03/02/2026-quanta-ai-server/",
-    "pubDate": "2026-03-02T00:58:29.000Z",
+    "title": "「沒有咖啡因，只有腎上腺素」，xAI 前創始成員揭露如何在一天半內推出 Grok",
+    "url": "https://technews.tw/2026/03/09/xai-founding-member-describes-grind-to-get-first-grok-model-out/",
+    "pubDate": "2026-03-09T00:20:55.000Z",
     "source": "TechNews 科技新報",
-    "contentSnippet": "在 AI 基礎建設需求持續擴張帶動下，外資最新報告同步調升對廣達後市展望。大和資本（Daiwa）與摩根士丹利指 […]"
+    "contentSnippet": "在 2023 年 11 月，伊隆‧馬斯克（Elon Musk）創立的 xAI 公司推出其首款大型語言模型 Gr […]"
   },
   {
-    "title": "全美創投近二成資金被它吸走，a16z 怎靠說故事登上矽谷新王者",
-    "url": "https://finance.technews.tw/2026/03/02/story-of-a16z/",
-    "pubDate": "2026-03-02T00:10:47.000Z",
+    "title": "AI 風險正在進行式，我們還來得及按下暫停鍵嗎？",
+    "url": "https://technews.tw/2026/03/09/ai-risks-are-ongoing/",
+    "pubDate": "2026-03-09T00:10:00.000Z",
     "source": "TechNews 科技新報",
-    "contentSnippet": "在企業面臨巨大轉型焦慮、所有人都大談 AI 技術的 2026 年，如果你不在創投圈，為什麼必須看懂一家矽谷創投 […]"
+    "contentSnippet": "過去一年，AI 風險已從研究報告中的假設情境，迅速走入真實世界。 從深偽詐騙、網路攻擊到情緒陪伴型AI引發的各 […]"
   },
   {
-    "title": "當 AI 什麼都會，人類還剩下什麼競爭力？",
-    "url": "https://finance.technews.tw/2026/03/02/the-human-advantage-stronger-brains-in-the-age-of-ai/",
-    "pubDate": "2026-03-01T23:20:25.000Z",
+    "title": "花 130 元就能起底你！最新研究揭 AI 去匿名化威脅，精準度高達 90%",
+    "url": "https://infosecu.technews.tw/2026/03/09/ai-tools-can-unmask-anonymous-accounts/",
+    "pubDate": "2026-03-08T23:40:25.000Z",
     "source": "TechNews 科技新報",
-    "contentSnippet": "AI 可以寫報告、做分析、產出建議，速度之快、成本之低，讓許多原本被視為「專業門檻」的工作瞬間變得唾手可得。  […]"
+    "contentSnippet": "隨著人工智慧技術的飛速發展，網路匿名性的保護傘正逐漸失效。根據蘇黎世聯邦理工學院（ETH Zurich）、An […]"
   },
   {
-    "title": "ChatGPT Health 無法穩定辨識急症與精神危機，逾半數未能提供適當急診指引",
-    "url": "https://technews.tw/2026/03/02/chatgpt-health-is-unable-to-consistently-identify-acute-illnesses-and-mental-health-crises/",
-    "pubDate": "2026-03-01T23:10:57.000Z",
+    "title": "看遍所有「AI PC」，原來 Mac 一直在這裡",
+    "url": "https://technews.tw/2026/03/09/mac-is-best-ai-pc/",
+    "pubDate": "2026-03-08T23:30:15.000Z",
     "source": "TechNews 科技新報",
-    "contentSnippet": "《Nature Medicine》2 月 23 日發表首份針對 OpenAI 旗下消費者健康工具 ChatGP […]"
+    "contentSnippet": "年初 Mac Mini 一度缺貨，等待時間甚至長達一個半月。 Mac mini 是好產品，這件事大家一直很清楚 […]"
   },
   {
-    "title": "從星艦到 Grok：SpaceX 整合社群與 AI 數據，布局火星載人任務",
-    "url": "https://technews.tw/2026/03/02/musk-spacex/",
-    "pubDate": "2026-03-01T23:00:44.000Z",
+    "title": "初代 AirTag 非「尋孩神器」，那二代會是嗎？",
+    "url": "https://ccc.technews.tw/2026/03/09/airtag-2-product-testing/",
+    "pubDate": "2026-03-08T23:15:51.000Z",
     "source": "TechNews 科技新報",
-    "contentSnippet": "SpaceX 最新計畫為利用其星艦太空船執行近地軌道以外任務，包括支援 NASA 阿提米絲（Artemis）計 […]"
+    "contentSnippet": "去年《科技新報》曾實測過，將初代 AirTag 塞進兒童鞋墊後，是否真能如一些電商或配件通路宣稱的「防小孩走失 […]"
   },
   {
-    "title": "連九年正現金流、年收破 40 億美元，Canva 靠「買技術＋挖人才」正面狙擊 Adobe",
-    "url": "https://finance.technews.tw/2026/03/01/canva-acquires-cavalry-and-mangoai/",
-    "pubDate": "2026-03-01T03:00:20.000Z",
+    "title": "不滿 AI 部署五角大廈引監控爭議，OpenAI 機器人主管辭職",
+    "url": "https://technews.tw/2026/03/08/openais-head-of-robotics-resigns/",
+    "pubDate": "2026-03-08T08:36:34.000Z",
     "source": "TechNews 科技新報",
-    "contentSnippet": "近期，Canva 正式宣布收購英國 2D 動畫平台 Cavalry 以及美國 AI 廣告優化新創 MangoA […]"
+    "contentSnippet": "OpenAI 機器人團隊負責人 Caitlin Kalinowski 近日宣布辭職，原因與 OpenAI 近期 […]"
   },
   {
-    "title": "Google DeepMind 執行長示警：AI 威脅迫在眉睫，研究刻不容緩",
-    "url": "https://technews.tw/2026/03/01/urgent-research-needed-to-tackle-ai-threats-says-google-ai-boss/",
-    "pubDate": "2026-03-01T01:30:52.000Z",
+    "title": "奧特曼：五角大廈 AI 軍用協議簽訂略顯倉促，OpenAI 無法控制其使用",
+    "url": "https://technews.tw/2026/03/08/sam-altman-admits-openai-can-not-control-pentagons-use-of-ai/",
+    "pubDate": "2026-03-08T05:42:54.000Z",
     "source": "TechNews 科技新報",
-    "contentSnippet": "印度德里人工智慧影響高峰會時，Google DeepMind 執行長傑米斯·哈薩比斯（Demis Hassab […]"
+    "contentSnippet": "就在上週五（2/27）五角大廈宣布將 Anthropic 列為「供應鏈風險」（supply-chain ris […]"
   },
   {
-    "title": "從黑鷹生還者到漢翔董座，曹進平用「賺來的餘生」重塑紀律、迎戰無人機商機",
-    "url": "https://finance.technews.tw/2026/03/01/aidc-ceo/",
-    "pubDate": "2026-03-01T01:00:47.000Z",
+    "title": "外媒揭露，Meta AI＋AR 眼鏡會將用戶私密影片分享海外審核員",
+    "url": "https://infosecu.technews.tw/2026/03/08/metas-ai-display-glasses-reportedly-share-intimate-videos-with-human-moderators/",
+    "pubDate": "2026-03-08T05:00:43.000Z",
     "source": "TechNews 科技新報",
-    "contentSnippet": "農曆年前，位於台中的漢翔公司，來自國外的客戶依舊穿梭不息，緊鑼密鼓地洽談各式無人機合作商機。2026 年 1  […]"
+    "contentSnippet": "《瑞典日報》（Svenska Dagbladet）上週五（2/27）發布的一份報導揭露，使用 Meta AI+ […]"
   },
   {
-    "title": "終結「剪輯地獄」！華碩聯手 GoPro 推 AI 筆電 PX13，解決戶外創作者「拍完不剪」痛點",
-    "url": "https://technews.tw/2026/02/28/asus-partners-with-gopro-to-launch-px13/",
-    "pubDate": "2026-02-28T05:00:09.000Z",
+    "title": "AI 成品愈精美，人愈不查證？Anthropic 點出「成品效應」風險",
+    "url": "https://technews.tw/2026/03/08/glossy-ai-outputs-make-our-brains-lazier/",
+    "pubDate": "2026-03-08T03:00:36.000Z",
     "source": "TechNews 科技新報",
-    "contentSnippet": "假期外出旅遊時，不少民眾會透過鏡頭記錄與家人互動、戶外山林與旅遊的點點滴滴。然而，對於許多熱愛記錄生活的「戶外 […]"
+    "contentSnippet": "隨著 AI 技術逐漸融入工作日常，使用者是否具備與 AI 良好互動的技能，已成為評估 AI 工具影響力的關鍵之 […]"
+  },
+  {
+    "title": "AI 聊天機器人能否成為心理治療的可靠夥伴？專家警告倫理風險仍高",
+    "url": "https://technews.tw/2026/03/08/chatgpt-as-a-therapist-new-study-reveals-serious-ethical-risks/",
+    "pubDate": "2026-03-08T02:30:45.000Z",
+    "source": "TechNews 科技新報",
+    "contentSnippet": "越來越多人找 ChatGPT 和其他大型語言模型（LLMs）尋求心理健康建議，但最新研究顯示，AI 聊天機器人 […]"
+  },
+  {
+    "title": "造價 46 萬元租金僅 1 萬？中國人型機器人「賠本賺吆喝」背後的泡沫隱憂",
+    "url": "https://technews.tw/2026/03/08/china-humanoid-robots-face-commercialization-hurdles/",
+    "pubDate": "2026-03-08T02:00:59.000Z",
+    "source": "TechNews 科技新報",
+    "contentSnippet": "今年除夕中國春晚，舞台中央一群揮舞長劍的人型機器人，以精湛武術、編舞舞蹈、高難度體操表演震撼全球，與前一年春晚 […]"
+  },
+  {
+    "title": "亞馬遜 Kindle 商店充斥 AI 生成書籍，讀者如何辨識低品質內容？",
+    "url": "https://technews.tw/2026/03/08/kindle-ai-generated-books/",
+    "pubDate": "2026-03-08T01:30:03.000Z",
+    "source": "TechNews 科技新報",
+    "contentSnippet": "在當今的數位時代，人工智慧（AI）已經滲透到我們生活的各個方面，尤其是在書籍市場上。根據最新報導，亞馬遜 Ki […]"
+  },
+  {
+    "title": "脂肪肝除了運動還有新選擇嗎？大麻化合物成為治療新曙光",
+    "url": "https://technews.tw/2026/03/08/besides-exercise-there-are-new-options-for-fatty-liver/",
+    "pubDate": "2026-03-08T00:30:42.000Z",
+    "source": "TechNews 科技新報",
+    "contentSnippet": "在最新的研究中，科學家發現大麻中的非致幻化合物 CBD（大麻二酚）和 CBG（大麻萜酚）可能對改善肝臟健康和降 […]"
+  },
+  {
+    "title": "在「不可能的地帶」長成巨獸，超級木星的高效率形成令科學家費解",
+    "url": "https://technews.tw/2026/03/08/jwst-spots-4-super-jupiters-in-the-hr-8799-system/",
+    "pubDate": "2026-03-07T16:00:54.000Z",
+    "source": "TechNews 科技新報",
+    "contentSnippet": "在太陽系中，木星是無可爭議的行星之王，但在銀河系的其他角落，存在著體型比木星還更巨大的「超級木星」，它們運行在 […]"
+  },
+  {
+    "title": "收購華納資產失利後，Netflix 收購《蝙蝠俠》艾佛列克旗下AI電影技術公司",
+    "url": "https://technews.tw/2026/03/07/after-the-failure-of-acquiring-warners-assets-netflix-acquired-batmans-ai-film-technology-company-under-affleck/",
+    "pubDate": "2026-03-07T08:11:01.000Z",
+    "source": "TechNews 科技新報",
+    "contentSnippet": "好萊塢對 AI 的態度已從原先的強烈恐慌和抗議逐漸開始轉變成接受 AI 輔助製作。繼去年迪士尼（Disney） […]"
+  },
+  {
+    "title": "康舒校園徵才，碩博士最高 150 萬獎學金",
+    "url": "https://technews.tw/2026/03/07/acbel-campus-recruitment/",
+    "pubDate": "2026-03-07T06:45:19.000Z",
+    "source": "TechNews 科技新報",
+    "contentSnippet": "電源解決方案廠商康舒科技校園徵才計畫，本次徵才將聚焦資料中心電源、電動車與新能源等重點領域，職缺涵蓋研發、業務 […]"
+  },
+  {
+    "title": "117歲逆齡奇蹟：免疫韌性與腸道菌的長壽密碼 【挺健康】",
+    "url": "https://pansci.asia/archives/380556",
+    "pubDate": "2026-03-07T05:07:45.000Z",
+    "source": "PanSci 泛科學",
+    "contentSnippet": "2024年8月，全球長壽紀錄的榜單上，一個傳奇的名字劃下了句點。Maria Branyas Morera，這位生於1907年的西班牙女性，在睡夢中平靜離世，享壽117歲又168 天。她是當時世界上最長壽的人類，也是有紀錄以來史上第七長壽者。 但讓醫學界震驚的，並不僅僅是這串代表歲月的數字。Maria 的一生經歷了兩次世界大戰、西班牙流感，甚至在 113 歲高齡時確診 COVID-19 卻奇蹟般地迅速康復。當科學家試圖探詢她的長壽祕訣時，這位經歷過世紀風霜的老奶奶給了一個極其平淡的答案：「我每天吃優格。」 等等，先別急著衝去超市掃貨。這不是一篇關於優格的推銷文，事情遠比這複雜，也精彩得多。為了破解人類「壽命極限」與「健康餘命」之間的密碼，頂尖科學團隊在 Maria 生前取得了她的同意，採集了她的血液、唾液、尿液與糞便樣本，進行了一項史無前例的「多組學（Multi-omics）」深度分析。 這項研究揭示了一個顛覆認知的發現：Maria Branyas 讓「衰老」與「疾病」這兩件事徹底脫鉤了。她的案例挑戰了我們對老化的既定想像——人類真的能活到 117 歲，卻幾乎沒有慢性病嗎？這究竟是基因樂透的獨得者，還是一種我們可以複製的生理節奏？"
+  },
+  {
+    "title": "科學家製作世界最小奈米級 QR Code，需搭配電子顯微鏡才能掃得到",
+    "url": "https://technews.tw/2026/03/07/worlds-smallest-qr-code-is-so-tiny-its-invisible-to-the-human-eye/",
+    "pubDate": "2026-03-07T05:00:05.000Z",
+    "source": "TechNews 科技新報",
+    "contentSnippet": "由奧地利維也納科技大學（TU Wien）的研究人員領軍，並與資料儲存技術公司 Cerabyte 合作完成了世界 […]"
+  },
+  {
+    "title": "當衰老成為一種可被治療的疾病：揭開長壽藥物的科學面紗【挺健康】",
+    "url": "https://pansci.asia/archives/380756",
+    "pubDate": "2026-03-03T05:26:40.000Z",
+    "source": "PanSci 泛科學",
+    "contentSnippet": "衰老能被治療嗎？本文解析二甲雙胍、雷帕黴素、NAD+與Senolytics等衰老保護劑的最新突破，並探討AI研發趨勢，以及長壽藥物是否淪為富人專利的倫理隱憂。"
   },
   {
     "title": "台灣光學革命：液晶眼鏡毫秒變焦，終結近視老花困境 【挺健康】",
@@ -75,12 +145,5 @@
     "pubDate": "2026-02-21T05:07:32.000Z",
     "source": "PanSci 泛科學",
     "contentSnippet": "在眼科門診的現場，這是一個屢見不鮮的場景：一位長年戴著近視眼鏡的患者，這幾年開始頻繁地將眼鏡摘下、拿近手機，眉頭深鎖地試圖看清螢幕上的小字。他困惑地問道：「醫生，大家都說近視可以抵銷老花，為什麼我現在看遠不清楚，看近也一片模糊？」 這就是所謂的「近視合併老花」，也是全球數億人口正面臨的視覺困境。當眼睛失去了對焦的彈性，生活彷彿被硬生生地切割成兩個世界。然而，一場寧靜的光學革命正在台灣發生。由陽明交通大學與群創光電聯手研發的「梯度折射率液晶眼鏡」，正試圖打破百年來的物理限制，利用電壓驅動液晶分子，實現毫秒級的自動變焦。這不僅是矯視科技的突破，更可能成為未來 AI 視覺與元宇宙的關鍵拼圖。"
-  },
-  {
-    "title": "日曬雨淋2000年 古羅馬人的秘密建材",
-    "url": "https://pansci.asia/archives/380544",
-    "pubDate": "2026-01-28T05:01:04.000Z",
-    "source": "PanSci 泛科學",
-    "contentSnippet": "火山灰掩蓋的龐貝古城中，科學家再度發掘價值非凡的考古地點：一座翻修重建中的民宅，其珍貴之處在於工地現場的工具與建材原料完好封存於西元79年，維蘇威火山爆發的時刻。現代科學家得以利用顯微鏡、能量散射X光譜（Energy-dispersive X-ray spectroscopy, EDS）、立體X光等科技深入分析原料成分，探究古羅馬建築工藝細節。"
   }
 ]
